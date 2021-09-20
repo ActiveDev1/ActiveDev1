@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Mahdi
-- 👀 I’m interested in NodeJs
-- 🌱 I’m currently learning NestJs framework
+- 👀 I’m interested in NodeJs & Golang
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me -> Tel: https://t.me/ActiveDev
 
 <!---
